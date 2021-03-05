@@ -7,3 +7,4 @@
 ### **The second part of the test task will be published in a separate repository and provided shortly**
 
 ### **Second part - [Click](https://github.com/k2wln/test-task-2)**
+### **Second part(2/3 site) - [Click](https://github.com/k2wln/test-task-3)**
